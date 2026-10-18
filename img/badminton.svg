@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+<defs><clipPath id="h"><ellipse cx="60" cy="40" rx="17" ry="23"/></clipPath></defs>
+<circle cx="60" cy="60" r="57" fill="#eaf5f1" stroke="#fff" stroke-width="3"/>
+<g transform="rotate(-35 60 60)">
+<path clip-path="url(#h)" d="M44 0V80M50 0V80M56 0V80M62 0V80M68 0V80M74 0V80M30 22H90M30 28H90M30 34H90M30 40H90M30 46H90M30 52H90M30 58H90" stroke="#9fc3d4" stroke-width="2"/>
+<ellipse cx="60" cy="40" rx="17" ry="23" fill="none" stroke="#124b70" stroke-width="5"/>
+<path d="M60 63V84" stroke="#124b70" stroke-width="5"/>
+<rect x="55" y="82" width="10" height="22" rx="4" fill="#c8414f"/>
+</g>
+<g transform="rotate(25 88 36)">
+<path d="M83 43 78 22H98L93 43Z" fill="#fff" stroke="#124b70" stroke-width="3" stroke-linejoin="round"/>
+<path d="M85 42 83 23M88 42V22M91 42 93 23" stroke="#9fc3d4" stroke-width="2"/>
+<circle cx="88" cy="46" r="6" fill="#f2b632" stroke="#124b70" stroke-width="2"/>
+</g>
+</svg>
